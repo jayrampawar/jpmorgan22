@@ -1,0 +1,4 @@
+package hello.com;
+public class hello{
+system.out.print("hello")
+}
